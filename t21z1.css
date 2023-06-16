@@ -3,7 +3,7 @@ body{margin: 0;
   justify-content: center;
   align-items: center;
   height: 250px;} 
-  
+  // в html для тегу div є клас block. тому або забрати . або після крапки слектор поміняти
 .div{width: 50px;
  height: 50px;
  position: relative;
